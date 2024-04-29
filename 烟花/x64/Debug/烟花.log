@@ -1,0 +1,8 @@
+﻿  yanhua.cpp
+D:\CCC\烟花\yanhua.cpp(45,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\CCC\烟花\yanhua.cpp(46,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\CCC\烟花\yanhua.cpp(182,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\CCC\烟花\yanhua.cpp(183,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\CCC\烟花\yanhua.cpp(187,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\CCC\烟花\yanhua.cpp(188,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  烟花.vcxproj -> D:\CCC\烟花\x64\Debug\烟花.exe

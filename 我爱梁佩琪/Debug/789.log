@@ -1,9 +1,0 @@
-﻿  爱心1.c
-D:\C++\789\爱心1.c(17,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-D:\C++\789\爱心1.c(18,14): warning C4305: “=”: 从“double”到“float”截断
-D:\C++\789\爱心1.c(18,33): warning C4305: “-=”: 从“double”到“float”截断
-D:\C++\789\爱心1.c(20,31): warning C4305: “+=”: 从“double”到“float”截断
-D:\C++\789\爱心1.c(66,15): warning C4305: “=”: 从“double”到“float”截断
-D:\C++\789\爱心1.c(66,34): warning C4305: “-=”: 从“double”到“float”截断
-D:\C++\789\爱心1.c(68,32): warning C4305: “+=”: 从“double”到“float”截断
-  789.vcxproj -> D:\C++\789\Debug\789.exe
