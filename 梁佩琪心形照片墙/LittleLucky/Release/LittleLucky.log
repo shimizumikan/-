@@ -1,0 +1,45 @@
+﻿生成启动时间为 2019/12/24 16:25:08。
+     1>项目“G:\LittleLuck(告白气球完整版)\LittleLucky\LittleLucky.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\LittleLucky.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\LittleLucky.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BackGround.cpp GaiBaiQiQiu.cpp LittleLucky.cpp LittleLuckyDlg.cpp MarryMe.cpp MindOne.cpp MindTwo.cpp MyLove.cpp NewButton2.cpp Picture.cpp Praise.cpp Romantic.cpp Runaway.cpp
+         BackGround.cpp
+         GaiBaiQiQiu.cpp
+         LittleLucky.cpp
+         LittleLuckyDlg.cpp
+         MarryMe.cpp
+         MindOne.cpp
+         MindTwo.cpp
+         MyLove.cpp
+         NewButton2.cpp
+         Picture.cpp
+         Praise.cpp
+         Romantic.cpp
+         Runaway.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\LittleLucky.res" LittleLucky.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\LittleLuck(告白气球完整版)\Release\LittleLucky.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\LittleLuck(告白气球完整版)\Release\LittleLucky.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\LittleLuck(告白气球完整版)\Release\LittleLucky.lib" /MACHINE:X86 /SAFESEH Release\LittleLucky.res
+         Release\BackGround.obj
+         Release\GaiBaiQiQiu.obj
+         Release\LittleLucky.obj
+         Release\LittleLuckyDlg.obj
+         Release\MarryMe.obj
+         Release\MindOne.obj
+         Release\MindTwo.obj
+         Release\MyLove.obj
+         Release\NewButton2.obj
+         Release\Picture.obj
+         Release\Praise.obj
+         Release\Romantic.obj
+         Release\Runaway.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         LittleLucky.vcxproj -> G:\LittleLuck(告白气球完整版)\Release\LittleLucky.exe
+     1>已完成生成项目“G:\LittleLuck(告白气球完整版)\LittleLucky\LittleLucky.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:22.75

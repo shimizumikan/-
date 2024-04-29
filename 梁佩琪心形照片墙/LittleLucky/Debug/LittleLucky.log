@@ -1,0 +1,44 @@
+﻿生成启动时间为 2019/12/25 15:34:13。
+     1>项目“C:\Users\df\Desktop\LittleLuck(终极版-爱心+烟花)\LittleLucky\LittleLucky.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\LittleLucky.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LittleLucky.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BackGround.cpp GaiBaiQiQiu.cpp LittleLucky.cpp LittleLuckyDlg.cpp MarryMe.cpp MindOne.cpp MindTwo.cpp MyLove.cpp NewButton2.cpp Picture.cpp Praise.cpp Romantic.cpp Runaway.cpp
+         Runaway.cpp
+         Romantic.cpp
+         Praise.cpp
+         Picture.cpp
+         NewButton2.cpp
+         MyLove.cpp
+         MindTwo.cpp
+         MindOne.cpp
+         MarryMe.cpp
+         LittleLuckyDlg.cpp
+         LittleLucky.cpp
+         GaiBaiQiQiu.cpp
+         BackGround.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /l"0x0804" /IDebug\ /nologo /fo"Debug\LittleLucky.res" LittleLucky.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\df\Desktop\LittleLuck(终极版-爱心+烟花)\Debug\LittleLucky.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\df\Desktop\LittleLuck(终极版-爱心+烟花)\Debug\LittleLucky.pdb" /SUBSYSTEM:WINDOWS /STACK:"100000000","100000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\df\Desktop\LittleLuck(终极版-爱心+烟花)\Debug\LittleLucky.lib" /MACHINE:X86 Debug\LittleLucky.res
+         Debug\BackGround.obj
+         Debug\GaiBaiQiQiu.obj
+         Debug\LittleLucky.obj
+         Debug\LittleLuckyDlg.obj
+         Debug\MarryMe.obj
+         Debug\MindOne.obj
+         Debug\MindTwo.obj
+         Debug\MyLove.obj
+         Debug\NewButton2.obj
+         Debug\Picture.obj
+         Debug\Praise.obj
+         Debug\Romantic.obj
+         Debug\Runaway.obj
+         Debug\stdafx.obj
+         LittleLucky.vcxproj -> C:\Users\df\Desktop\LittleLuck(终极版-爱心+烟花)\Debug\LittleLucky.exe
+     1>已完成生成项目“C:\Users\df\Desktop\LittleLuck(终极版-爱心+烟花)\LittleLucky\LittleLucky.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.85
